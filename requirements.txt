@@ -1,2 +1,4 @@
 kaggle
 ipykernel
+pandas
+matplotlib
